@@ -1,5 +1,8 @@
 ﻿# parcial1_C1
+Presentado únicamente por: Emerson Jair Umanzor Yanes - SMTR139023
+ 
 Explicación del Razonamiento y Justificación de la Solución
+
 1 - Gestión de Tienda
 En este documento, se describe el razonamiento detrás de la solución propuesta para la venta de un producto utilizando Python. Se detalla la decisión de utilizar Programación Orientada a Objetos (POO) y otras funcionalidades de Python para simplificar el proceso de venta y calcular el total y el cambio.
 Uso de Programación Orientada a Objetos (POO)
